@@ -2,7 +2,7 @@
 
 - [GitHub](https://github.com/nandarwin19)
 - [Discord](https://discord.com/users/nwin04)
-
+- [Email](mailto:nwin20s.1975@gmail.com)
 ---
 
 **My Projects**
@@ -27,12 +27,12 @@
       <td>June 2024</td>
     </tr>
     <tr>
-      <td><a href="https://nwin.netlify.app">Simple-portfolio</a> ✰</td>
+      <td><a href="https://nwin.netlify.app">Simple-portfolio (Still building)</a> ✰</td>
       <td>Next.js, MongoDB</td>
       <td>June 2024</td>
     </tr>
     <tr>
-      <td><a href="https://plant-client.vercel.app">Planto</a> ✰</td>
+      <td><a href="https://plant-client.vercel.app">Planto (need to fix)</a> ✰</td>
       <td>MERN, Three.js</td>
       <td>May 2024</td>
     </tr>
