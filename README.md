@@ -1,9 +1,6 @@
----
-
 **Get in touch**
 - [GitHub](https://github.com/nandarwin19)
 - [Discord](https://discord.com/users/nwin04)
-
 
 ---
 
