@@ -1,11 +1,9 @@
 ---
 
 **Get in touch**
-
-<!-- - [LinkedIn](https://linkedin.com/in/nwin1970)  -->
 - [GitHub](https://github.com/nandarwin19)
 - [Discord](https://discord.com/users/nwin04)
-<!-- - [Telegram](https://t.me/nwin1975) -->
+
 
 ---
 
