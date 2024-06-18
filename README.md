@@ -1,4 +1,5 @@
 **Get in touch**
+
 - [GitHub](https://github.com/nandarwin19)
 - [Discord](https://discord.com/users/nwin04)
 
@@ -6,29 +7,107 @@
 
 **My Projects**
 
-**2024**
-
-- [Threejs Profolio(coming soon)](#) (June) ✰
-- [Simple-portfolio](https://nwin.netlify.app) (June) ✰
-- [Aora](https://github.com/nandarwin19/aora) (June)
-- [Planto](https://plant-client.vercel.app) (Not finished yet, May) ✰
-- [Homehub](https://homehunthub.onrender.com/) (April) ✰
-- [Headphone](https://headphones-nwin-main-7b5hp07uf-nwins-projects-cefa4bac.vercel.app) (March) ✰
-- [UserManagement](https://nwin-usermanagement.netlify.app/) (March)
-- [Flixgpt](https://flixgpt-nwin.netlify.app) (February)
-- [Memory card](https://65d793ecaacb781f691c85a0--cheery-faun-c966dd.netlify.app/) (February 23)
-- [CV Maker](https://65ae299a31747e078735960d--luxury-madeleine-fc7e9c.netlify.app) (January 21)
-- [Threejs dog playground](https://6592f222b4d60ce2812e62ec--courageous-fairy-a84af4.netlify.app/) (January 1)
-
-**2023**
-
-- [Namaste_youtube](https://shimmering-begonia-d854a4.netlify.app/) (December)
-- [Example profolio](https://legendary-granita-8380ae.netlify.app/) (December 9)
-- [Ecommerce](https://steady-zabaione-ff4f33.netlify.app) (November)
-- [Travel web](https://incandescent-torte-cb7f20.netlify.app/) (November 27)
-- [Myanmar months](https://65647ef2fbcc753368c6509b--glowing-tiramisu-31f44c.netlify.app/) (November 27)
-- [Bird](https://birds-n.netlify.app/) (November 26) ✰
-- [Weather](https://nwin19.github.io/weather/) (September)
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Tech Stack</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">Threejs Profolio (coming soon)</a> ✰</td>
+      <td>Three.js, JS</td>
+      <td>June 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nandarwin19/aora">Aora</a></td>
+      <td>react native, expo, nativewind</td>
+      <td>June 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://nwin.netlify.app">Simple-portfolio</a> ✰</td>
+      <td>Next.js, MongoDB</td>
+      <td>June 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://plant-client.vercel.app">Planto</a> ✰</td>
+      <td>MERN, Three.js</td>
+      <td>May 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://homehunthub.onrender.com/">Homehub</a> ✰</td>
+      <td>MERN, GSAP</td>
+      <td>April 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://headphones-nwin-main-7b5hp07uf-nwins-projects-cefa4bac.vercel.app">Headphone</a> ✰</td>
+      <td>MERN, GSAP</td>
+      <td>March 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://nwin-usermanagement.netlify.app/">UserManagement</a></td>
+      <td>Next.js, Tailwind CSS</td>
+      <td>March 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://flixgpt-nwin.netlify.app">Flixgpt</a></td>
+      <td>React.js, Tailwind CSS</td>
+      <td>February 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://65d793ecaacb781f691c85a0--cheery-faun-c966dd.netlify.app/">Memory card</a></td>
+      <td>React.js, Tailwind CSS</td>
+      <td>February 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://65ae299a31747e078735960d--luxury-madeleine-fc7e9c.netlify.app">CV Maker</a></td>
+      <td>React.js, Tailwind CSS</td>
+      <td>January 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://6592f222b4d60ce2812e62ec--courageous-fairy-a84af4.netlify.app/">Threejs dog playground</a></td>
+      <td>React.js, Tailwind CSS, Three.js</td>
+      <td>January 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://shimmering-begonia-d854a4.netlify.app/">Namaste_youtube</a></td>
+      <td>React.js, Tailwind CSS</td>
+      <td>December 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://legendary-granita-8380ae.netlify.app/">Example profolio</a></td>
+      <td>React.js, Tailwind CSS, Three.js</td>
+      <td>December 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://steady-zabaione-ff4f33.netlify.app">Ecommerce</a></td>
+      <td>React.js, Tailwind CSS</td>
+      <td>November 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://incandescent-torte-cb7f20.netlify.app/">Travel web</a></td>
+      <td>React.js, Tailwind CSS</td>
+      <td>November 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://65647ef2fbcc753368c6509b--glowing-tiramisu-31f44c.netlify.app/">Myanmar months</a></td>
+      <td>React.js, Tailwind CSS</td>
+      <td>November 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://birds-n.netlify.app/">Bird</a> ✰</td>
+      <td>React.js, Tailwind CSS</td>
+      <td>November 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://nwin19.github.io/weather/">Weather</a></td>
+      <td>JavaScript, HTML, CSS</td>
+      <td>September 2023</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
