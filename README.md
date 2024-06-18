@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Threejs Profolio (coming soon)</a> ✰</td>
+      <td><a href="#">Threejs portfolio (coming soon)</a> ✰</td>
       <td>Three.js, JS</td>
       <td>June 2024</td>
     </tr>
@@ -77,7 +77,7 @@
       <td>December 2023</td>
     </tr>
     <tr>
-      <td><a href="https://legendary-granita-8380ae.netlify.app/">Example profolio</a></td>
+      <td><a href="https://legendary-granita-8380ae.netlify.app/">Example-portfolio</a></td>
       <td>React.js, Tailwind CSS, Three.js</td>
       <td>December 2023</td>
     </tr>
