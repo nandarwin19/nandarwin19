@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Threejs portfolio (coming soon)</a> ✰</td>
+      <td><a href="#">Threejs portfolio (still)</a> ✰</td>
       <td>Three.js, JS</td>
       <td>June 2024</td>
     </tr>
@@ -32,7 +32,7 @@
       <td>June 2024</td>
     </tr>
     <tr>
-      <td><a href="https://nwin.netlify.app">Simple-portfolio (Still building)</a> ✰</td>
+      <td><a href="https://nwin.netlify.app">Simple-portfolio (still)</a> ✰</td>
       <td>Next.ts, MongoDB</td>
       <td>June 2024</td>
     </tr>
