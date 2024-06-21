@@ -22,6 +22,11 @@
       <td>June 2024</td>
     </tr>
     <tr>
+      <td><a href="#">Next-auth advanced v5 (still)</a> </td>
+      <td></td>
+      <td>June 2024</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nandarwin19/aora">Aora</a></td>
       <td>React Native, Expo, Nativewind</td>
       <td>June 2024</td>
@@ -125,11 +130,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-0052CC?style=flat-square&logo=appwrite&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
 
