@@ -28,7 +28,7 @@
     </tr> -->
     <tr>
       <td><a href="https://github.com/nandarwin19/aora">Aora</a></td>
-      <td>React Native, Expo, Nativewind</td>
+      <td>React Native, Expo, Appwrite</td>
       <td>June 2024</td>
     </tr>
     <tr>
