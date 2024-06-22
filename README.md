@@ -21,11 +21,11 @@
       <td>Three.js, JS</td>
       <td>June 2024</td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><a href="#">Next-auth advanced v5 (still)</a> </td>
       <td></td>
       <td>June 2024</td>
-    </tr>
+    </tr> -->
     <tr>
       <td><a href="https://github.com/nandarwin19/aora">Aora</a></td>
       <td>React Native, Expo, Nativewind</td>
