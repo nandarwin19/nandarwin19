@@ -25,7 +25,7 @@
       <td>June 2024</td>
     </tr>
     <tr>
-      <td><a href="https://nwin.netlify.app">Simple-portfolio (still)</a> ✰</td>
+      <td><a href="https://nwin.dev">Personal portfolio</a> ✰</td>
       <td>Next.ts, MongoDB</td>
       <td>June 2024</td>
     </tr>
