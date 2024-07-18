@@ -30,7 +30,7 @@
       <td>June 2024</td>
     </tr>
     <tr>
-      <td><a href="https://plant-client.vercel.app">Planto (need to fix)</a> ✰</td>
+      <td><a href="https://planto-opqq.onrender.com">Planto</a> ✰</td>
       <td>MERN, Three.js</td>
       <td>May 2024</td>
     </tr>
@@ -95,7 +95,7 @@
       <td>November 2023</td>
     </tr>
     <tr>
-      <td><a href="https://birds-n.netlify.app/">Bird</a> ✰</td>
+      <td><a href="https://birds-n.netlify.app/">Bird</a></td>
       <td>React.js, Tailwind CSS</td>
       <td>November 2023</td>
     </tr>
