@@ -114,6 +114,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 **🛠 Languages and tools:**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -134,5 +139,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-0052CC?style=flat-square&logo=appwrite&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
-
-
