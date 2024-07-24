@@ -1,9 +1,46 @@
-**Get in Touch**
+### 🌐 My Portfolio
+
+- <p>
+    <a href="https://nwin.dev">Live demo</a>
+  </p>
+
+---
+
+### Get in Touch
 
 - **Email:** [nwin.developer@gmail.com](mailto:nwin.developer@gmail.com)
 - **GitHub:** [nandarwin19](https://github.com/nandarwin19)
 
-**My Projects**
+---
+
+### 🛠 Skills & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/ThreeJS-black?style=flat-square&logo=three.js&logoColor=white" alt="ThreeJS" />
+  <img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GreenSock" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Appwrite-0052CC?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+---
+
+### 🚀 Projects
+
+Here's a curated list of my projects, showcasing some of the work I've done:
 
 <table>
   <thead>
@@ -14,14 +51,14 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="#">Threejs portfolio (still)</a> ✰</td>
-      <td>Three.js, JS</td>
-      <td>June 2024</td>
+   <tr>
+      <td><a href="https://github.com/nandarwin19/vue-projects">Vue projects</a></td>
+      <td>Vue</td>
+      <td>July 2024</td>
     </tr>
-<!--     <tr>
-      <td><a href="#">Next-auth advanced v5 (still)</a> </td>
-      <td></td>
+    <!-- <tr>
+      <td><a href="#">Threejs Portfolio (still)</a> ✰</td>
+      <td>Three.js, JS</td>
       <td>June 2024</td>
     </tr> -->
     <tr>
@@ -30,8 +67,8 @@
       <td>June 2024</td>
     </tr>
     <tr>
-      <td><a href="https://nwin.dev">Personal portfolio</a> ✰</td>
-      <td>Next.ts, MongoDB</td>
+      <td><a href="https://nwin.dev">Personal Portfolio</a> ✰</td>
+      <td>Next.js, MongoDB</td>
       <td>June 2024</td>
     </tr>
     <tr>
@@ -60,7 +97,7 @@
       <td>February 2024</td>
     </tr>
     <tr>
-      <td><a href="https://65d793ecaacb781f691c85a0--cheery-faun-c966dd.netlify.app/">Memory card</a></td>
+      <td><a href="https://65d793ecaacb781f691c85a0--cheery-faun-c966dd.netlify.app/">Memory Card</a></td>
       <td>React.js, Tailwind CSS</td>
       <td>February 2024</td>
     </tr>
@@ -70,7 +107,7 @@
       <td>January 2024</td>
     </tr>
     <tr>
-      <td><a href="https://6592f222b4d60ce2812e62ec--courageous-fairy-a84af4.netlify.app/">Threejs dog playground</a></td>
+      <td><a href="https://6592f222b4d60ce2812e62ec--courageous-fairy-a84af4.netlify.app/">Threejs Dog Playground</a></td>
       <td>React.js, Tailwind CSS, Three.js</td>
       <td>January 2024</td>
     </tr>
@@ -90,12 +127,12 @@
       <td>November 2023</td>
     </tr>
     <tr>
-      <td><a href="https://incandescent-torte-cb7f20.netlify.app/">Travel web</a></td>
+      <td><a href="https://incandescent-torte-cb7f20.netlify.app/">Travel Web</a></td>
       <td>React.js, Tailwind CSS</td>
       <td>November 2023</td>
     </tr>
     <tr>
-      <td><a href="https://65647ef2fbcc753368c6509b--glowing-tiramisu-31f44c.netlify.app/">Myanmar months</a></td>
+      <td><a href="https://65647ef2fbcc753368c6509b--glowing-tiramisu-31f44c.netlify.app/">Myanmar Months</a></td>
       <td>React.js, Tailwind CSS</td>
       <td>November 2023</td>
     </tr>
@@ -114,28 +151,8 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📊 My Stats
+
+![Nandar's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nwin&layout=compact&theme=github_dark&hide_border=true)
 
 ---
-
-**🛠 Languages and tools:**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-black?style=flat-square&logo=three.js&logoColor=white)
-![GreenSock](https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Framer Motion](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
-![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-0052CC?style=flat-square&logo=appwrite&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
