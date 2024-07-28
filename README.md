@@ -61,6 +61,11 @@ Here's a curated list of my projects, showcasing some of the work I've done:
       <td>Three.js, JS</td>
       <td>June 2024</td>
     </tr> -->
+<!--       <tr>
+      <td><a href="https://github.com/nandarwin19/duolingo-clone">Duolingo clone</a></td>
+      <td> Nextjs, Drizzle, Stripe</td>
+      <td>June 2024</td>
+    </tr> -->
     <tr>
       <td><a href="https://github.com/nandarwin19/aora">Aora</a></td>
       <td>React Native, Expo, Appwrite</td>
