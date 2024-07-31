@@ -10,13 +10,14 @@
 
 - **Email:** [nwin.developer@gmail.com](mailto:nwin.developer@gmail.com)
 - **GitHub:** [nandarwin19](https://github.com/nandarwin19)
-
+  
+<!--
 ---
 
 ### 🛠 Skills & Tools
 
 <p>
-<!--   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -33,7 +34,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Appwrite-0052CC?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> -->
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -42,7 +43,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
-
+ -->
 ---
 
 ### 🚀 Projects
