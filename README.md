@@ -1,3 +1,4 @@
+<!--
 ### 🌐 My Portfolio
 
 - <p>
@@ -11,7 +12,7 @@
 - **Email:** [nwin.developer@gmail.com](mailto:nwin.developer@gmail.com)
 - **GitHub:** [nandarwin19](https://github.com/nandarwin19)
   
-<!--
+
 ---
 
 ### 🛠 Skills & Tools
@@ -168,9 +169,10 @@ Here's a curated list of my projects, showcasing some of the work I've done:
 </table>
 
 ---
-
+<!--
 ### 📊 My Stats
 
 ![Nandar's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nwin&layout=compact&theme=github_dark&hide_border=true)
 
 ---
+ -->
