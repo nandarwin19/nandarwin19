@@ -47,9 +47,7 @@
  -->
 ---
 
-### 🚀 Projects
-
-Here's a curated list of my projects, showcasing some of the work I've done:
+### Projects
 
 <table>
   <thead>
