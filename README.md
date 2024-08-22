@@ -58,11 +58,11 @@
     </tr>
   </thead>
   <tbody>
-   <tr>
+<!--    <tr>
       <td><a href="https://github.com/nandarwin19/vue-projects">Vue projects</a></td>
       <td>Vue</td>
       <td>July 2024</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td><a href="#">Threejs Portfolio (still)</a> ✰</td>
       <td>Three.js, JS</td>
@@ -73,6 +73,11 @@
       <td>Next.js, Supabase, Prisma</td>
       <td>August 2024</td>
     </tr> 
+<tr>
+      <td><a href="https://github.com/nandarwin19/vue-projects">Vue projects</a></td>
+      <td>Vue</td>
+      <td>July 2024</td>
+    </tr>
 <!--       <tr>
       <td><a href="https://github.com/nandarwin19/duolingo-clone">Duolingo clone</a></td>
       <td> Nextjs, Drizzle, Stripe</td>
