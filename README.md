@@ -68,11 +68,11 @@
       <td>Three.js, JS</td>
       <td>June 2024</td>
     </tr> -->
-      <!--       <tr>
-      <td><a href="https://github.com/nandarwin19/finance">Finance</a></td>
-      <td></td>
-      <td>July 2024</td>
-    </tr> -->
+     <tr>
+      <td><a href="https://github.com/nandarwin19/airbnb-clone.git">Temp-Hub(Still)</a></td>
+      <td>Next.js, Supabase, Prisma</td>
+      <td>August 2024</td>
+    </tr> 
 <!--       <tr>
       <td><a href="https://github.com/nandarwin19/duolingo-clone">Duolingo clone</a></td>
       <td> Nextjs, Drizzle, Stripe</td>
@@ -90,17 +90,17 @@
     </tr>
     <tr>
       <td><a href="https://planto-opqq.onrender.com">Planto</a> ✰</td>
-      <td>MERN, Three.js</td>
+      <td>React, Express, Node, MongoDB, Three.js</td>
       <td>May 2024</td>
     </tr>
     <tr>
       <td><a href="https://homehunthub.onrender.com/">Homehub</a> ✰</td>
-      <td>MERN, GSAP</td>
+      <td>React, Express, Node, MongoDB, GSAP</td>
       <td>April 2024</td>
     </tr>
     <tr>
       <td><a href="https://headphones-nwin-main-7b5hp07uf-nwins-projects-cefa4bac.vercel.app">Headphone</a> ✰</td>
-      <td>MERN, GSAP</td>
+      <td>React.js, GSAP, Tailwind CSS</td>
       <td>March 2024</td>
     </tr>
     <tr>
