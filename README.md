@@ -168,9 +168,4 @@
 
 ---
 
-### 📊 My Stats
-
-![Nandar's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nwin&layout=compact&theme=github_dark&hide_border=true)
-
----
 
