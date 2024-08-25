@@ -68,8 +68,13 @@
       <td>Three.js, JS</td>
       <td>June 2024</td>
     </tr> -->
+        <tr>
+      <td><a href="https://github.com/nandarwin19/React-Three-Fiber.git">React Three Fiber (still)</a>✰</td>
+      <td>React Three Fiber</td>
+      <td>August 2024</td>
+    </tr> 
      <tr>
-      <td><a href="https://github.com/nandarwin19/airbnb-clone.git">Temp-Hub (Still)</a>✰</td>
+      <td><a href="https://github.com/nandarwin19/temp-hub.git">Temp-Hub</a>✰</td>
       <td>Next.js, Supabase, Prisma</td>
       <td>August 2024</td>
     </tr> 
