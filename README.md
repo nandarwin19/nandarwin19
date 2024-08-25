@@ -74,7 +74,7 @@
       <td>August 2024</td>
     </tr> 
      <tr>
-      <td><a href="https://github.com/nandarwin19/temp-hub.git">Temp-Hub</a>✰</td>
+      <td><a href="https://github.com/nandarwin19/home-away.git">Home Away</a>✰</td>
       <td>Next.js, Supabase, Prisma</td>
       <td>August 2024</td>
     </tr> 
